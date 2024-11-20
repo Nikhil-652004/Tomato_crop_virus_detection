@@ -84,7 +84,6 @@ The dataset includes images of tomato leaves categorized into several classes, i
 
 #### **Results**  
 - **Training Accuracy**: ~93.3%  
-- 
 - **Testing Accuracy**: ~88.1%  
 
 Detailed results, including confusion matrices and visualizations, are saved in the `input/` folder.
